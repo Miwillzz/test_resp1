@@ -1,0 +1,10 @@
+C:\Users\4M4D3US\Desktop\SistemaInventarioVB1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\4M4D3US\Desktop\SistemaInventarioVB1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\4M4D3US\Desktop\SistemaInventarioVB1\ClassLibrary1\bin\Debug\ClassLibrary1.xml
+C:\Users\4M4D3US\Desktop\SistemaInventarioVB1\ClassLibrary1\obj\Debug\ClassLibrary1.Resources.resources
+C:\Users\4M4D3US\Desktop\SistemaInventarioVB1\ClassLibrary1\obj\Debug\ClassLibrary1.vbproj.GenerateResource.cache
+C:\Users\4M4D3US\Desktop\SistemaInventarioVB1\ClassLibrary1\obj\Debug\ClassLibrary1.vbproj.CoreCompileInputs.cache
+C:\Users\4M4D3US\Desktop\SistemaInventarioVB1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\4M4D3US\Desktop\SistemaInventarioVB1\ClassLibrary1\obj\Debug\ClassLibrary1.xml
+C:\Users\4M4D3US\Desktop\SistemaInventarioVB1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\4M4D3US\Desktop\SistemaInventarioVB1\ClassLibrary1\obj\Debug\ClassLibrary1.vbprojAssemblyReference.cache
